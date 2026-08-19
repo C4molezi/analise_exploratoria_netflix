@@ -4,7 +4,7 @@ Este repositório contém uma análise exploratória de dados (EDA) minuciosa do
 
 ---
 
-## 🛠️ Stack Tecnológica & Métodos
+## Stack Tecnológica & Métodos
 * **Python 3.x**
 * **Pandas**: Manipulação de *dataframes*, parsing de datas, vetorização de operações e explosão de listas contidas em dados não estruturados (`explode()`).
 * **NumPy**: Separação de arrays, operações aritméticas e cômputo de estatísticas descritivas (média e mediana).
@@ -12,7 +12,7 @@ Este repositório contém uma análise exploratória de dados (EDA) minuciosa do
 
 ---
 
-## 📊 Relatório Técnico de Insights Extraídos
+## Relatório Técnico de Insights Extraídos
 
 ### 1. Composição e Proporção Mídia (Filmes vs. Séries)
 * **Dataset Size:** 8.807 registros totais (`Movie`: 6.131; `TV Show`: 2.676).
@@ -59,7 +59,7 @@ Este repositório contém uma análise exploratória de dados (EDA) minuciosa do
 
 ---
 
-## 🚀 Como Executar o Script de Análise
+## Como Executar o Script de Análise
 
 1. Certifique-se de possuir o arquivo `netflix_titles.csv` no diretório raiz do projeto.
 2. Instale as dependências requeridas:
